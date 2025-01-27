@@ -1,0 +1,40 @@
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned undefined" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Java Course</h1><a id="user-content-curso-de-programación-java" class="anchor" aria-label="Permalink: Curso de programación Java" href="#curso-de-programación-java"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Examples and Exercises</h2><a id="user-content-repositorio-de-ejemplos-y-ejercicios" class="anchor" aria-label="Permalink: Repositorio de ejemplos y ejercicios" href="#repositorio-de-ejemplos-y-ejercicios"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">This repository contains excercises and examples from the book <a href="https://school.dsrroma.es/libro/" rel="nofollow">Manual Imprescindible Curso de programación Java</a> de <a href="https://www.anayamultimedia.es/libro.php?id=6085791" rel="nofollow">Anaya Multimedia</a> escrito por <a href="https://www.linkedin.com/in/marionanadal/" rel="nofollow">Mariona Nadal</a>. You can also find the original repository in Spanish at <a href="https://github.com/DSRschool/Anaya-MI-Java?tab=readme-ov-file" rel="nofollow">Curso de programación en Java</a>.</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dacfcd4b3c484a12cf20706335fab04438fd39cbf9f967e94de648ecaecff11f/68747470733a2f2f7363686f6f6c2e647372726f6d612e65732f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4d5530303530383430312e6a7067"><img alt="Portada del libro" src="https://camo.githubusercontent.com/dacfcd4b3c484a12cf20706335fab04438fd39cbf9f967e94de648ecaecff11f/68747470733a2f2f7363686f6f6c2e647372726f6d612e65732f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4d5530303530383430312e6a7067" data-canonical-src="https://school.dsrroma.es/wp-content/uploads/2021/05/MU00508401.jpg" style="max-width: 100%;"></a></p>
+<ul dir="auto">
+<li>ISBN (Papel): 978-84-415-4324-9</li>
+<li>ISBN (Digital): 978-84-415-4425-3</li>
+</ul>
+
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Chapters</h2><a id="user-content-capítulos" class="anchor" aria-label="Permalink: Capítulos" href="#capítulos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto"><!--
+<li><a href="">Mi primer programa</a></li>
+<li><a href="">Argumentos, variables, métodos y operadores</a></li>
+<li><a href="">Estructuras condicionales</a></li>
+<li><a href="">Estructuras iterativas</a></li>
+<li><a href="">Proyecto «piedra, papel, tijeras»</a></li>
+<li><a href="">Diseño orientado a objetos</a></li>
+<li><a href="">Clases y objetos</a></li>
+<li><a href="">Relaciones orientadas a objetos</a></li>
+<li><a href="">Proyecto «macetohuerto»</a></li>
+<li><a href="">Manejo de excepciones</a></li>
+<li><a href="">Depuración</a></li>
+<li><a href="">Test unitarios</a></li>
+<li><a href="">Trazas de ejecución</a></li>
+<li><a href="">Proyecto «Gestión de récords»</a></li>
+<li><a href="">Estructuras de datos</a></li>
+<li><a href="">Bases de datos: Mapeo Objeto-Relacional</a></li>
+<li><a href="">Expresiones lambda y Streams</a></li>
+<li><a href="">Proyecto «otra reunión más»</a></li>-->
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Guarantee</h2><a id="user-content-garantía" class="anchor" aria-label="Permalink: Garantía" href="#garantía"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">The programs and applications presented in this repository are included for their educational value and are not guaranteed for any specific purpose. Neither the publisher nor the author provides warranties or assurances or accepts any responsibility regarding the programs or applications..</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">License</h2><a id="user-content-licencia" class="anchor" aria-label="Permalink: Licencia" href="#licencia"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">Copyright (c) 2021 <a href="https://school.dsrroma.es" rel="nofollow">Mariona Nadal</a>.</p>
+<p dir="auto"><a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="nofollow"><img alt="Creative Commons License" src="https://camo.githubusercontent.com/3e542e2568cd7445783553bb6214b4067b0ba9a1219684ae8d9ec9cf11ce052e/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632f342e302f38387833312e706e67" data-canonical-src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" style="max-width: 100%;"></a></p>
+<p dir="auto">You can freely use the material in this repository under the license.
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="nofollow">Creative Commons
+Attribution-NonCommercial 4.0 International</a> (CC BY-NC 4.0).</p>
+</article></div>
