@@ -6,17 +6,18 @@ public class Exercise4_1 {
 	 * lowercase.
 	 */
 	private static final int FEWER = 5;
-	
+
 	public static void main(String[] args) {
 		for (String argument : args) {
-			System.out.println(argsLong(argument));
+			System.out.println(argsChar(argument));
 		}
 
 	}
-	private static String argsLong(String arg) {
+
+	private static String argsChar(String arg) {
 		if (arg.length() < FEWER) {
 			return arg.toUpperCase();
-		}else {
+		} else {
 			return arg.toLowerCase();
 		}
 	}
