@@ -14,6 +14,7 @@ public class Exercise4_7 {
 		int width = sc.nextInt();
 		int height = sc.nextInt();
 		System.out.println(printMatrix(width, height));
+		sc.close();
 	}
 	
 	private static String printMatrix(int width, int height) {
