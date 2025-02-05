@@ -1,0 +1,22 @@
+• Develop a complete and functional program.
+• Apply what was learned in the previous chapters.
+• Interact with the user.
+• Generate random responses.
+
+One thing is knowing how to play "rock, paper, scissors" with another person, and another is how we will play against the computer with our program. The program will have four parts:
+
+• Explain to the player how to play.
+• Generate the computer’s random move.
+• Ask the player for their move using a letter (R for rock, P for paper, S for scissors, or E to exit and end the game).
+• Decide who has won.
+
+The steps we will follow to build the program are:
+
+• Prepare the skeleton and necessary constants.
+• Display instructions to the user.
+• Generate the computer’s move.
+• Collect the player’s move.
+• Interpret the player’s move.
+• Determine the winner of the round.
+• Display the result of the round.
+• Make the game repetitive.
