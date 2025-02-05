@@ -13,9 +13,9 @@
 <li><a href="https://github.com/epalangb/Java-Course/tree/master/Chapter-01">My First Program</a></li>
 <li><a href="https://github.com/epalangb/Java-Course/tree/master/Chapter-02">Arguments, Variables, Methods, and Operators</a></li>
 <li><a href="https://github.com/epalangb/Java-Course/tree/master/Chapter-03">Conditional Structures</a></li>
+<li><a href="https://github.com/epalangb/Java-Course/tree/master/Chapter-04">Iterative Structures</a></li>
+<li><a href="https://github.com/epalangb/Java-Course/tree/master/Chapter-05">Project "Rock, Paper, Scissors</a></li>
   <!--
-<li><a href="">Estructuras iterativas</a></li>
-<li><a href="">Proyecto «piedra, papel, tijeras»</a></li>
 <li><a href="">Diseño orientado a objetos</a></li>
 <li><a href="">Clases y objetos</a></li>
 <li><a href="">Relaciones orientadas a objetos</a></li>
