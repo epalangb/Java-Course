@@ -21,7 +21,7 @@ public class RockScissorsPaper {
 			+ "Additionaly you can Exit the game with [E], or ask for help with [H]." + "\n\nLet's play!";
 	private static final String ASK_FOR_MOVE_MSG = "\nWhat you want to do?";
 	private static final String WIN_MSG = "CONGRATULATION! YOU WIN!";
-	private static final String LOOSE_MSG = "Sorry buddy, you loose";
+	private static final String LOOSE_MSG = "Sorry buddy, you lose";
 	private static final String DRAW_MSG = "It's a Draw!";
 	private static final String ERROR_MSG = "An Error has ocurred. Please check your answer and try again.";
 	private static final String EXIT_MSG = "See you soon! Thanks for playing!";
