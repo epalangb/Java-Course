@@ -1,0 +1,19 @@
+Analyze the project requirements.
+Extract the main concepts.
+Sketch a conceptual diagram.
+Draw a conceptual diagram using UML.
+
+A request has been made for an application to manage the bagging of products for online supermarket orders at sOOPer.
+
+Currently, there are two types of containers: bags and boxes. Boxes are rectangular and can hold "any weight," while bags have a maximum weight limit. In both cases, the volume is determined by their dimensions, and various sizes are available.
+
+Supermarket products are divided into several categories: Food, Hygiene, Household Cleaning, and Pet Supplies. Food products are further subdivided into Frozen, Fresh, and Non-Perishable items.
+
+Each product has a specific volume and weight, which must be considered as "occupied" when bagged.
+
+There are category restrictions:
+
+Food products cannot be mixed with other categories.
+Hygiene products cannot be mixed with food products.
+Household cleaning products cannot be mixed with either food or pet supplies.
+In the first version of this application, it is not necessary to optimize distribution or account for temperatures or expiration dates.
