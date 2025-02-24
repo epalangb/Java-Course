@@ -1,5 +1,7 @@
 package sooper.containers;
 import java.util.Set;
+
+import sooper.enums.ContainerType;
 import sooper.products.IProduct;
 
 public interface IContainer {
@@ -7,12 +9,12 @@ public interface IContainer {
 	
 	int getVolume();
 	int avalibleVolume();
-	int getResistance();
+	int getEndurance();
 	int getSurface();
 	
 	Set<IProduct> getProducts();
 	
-	String getType();
+	ContainerType getType();
 	
 	boolean addProduct(IProduct product);
 	boolean containerWithstand(IProduct product);

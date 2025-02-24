@@ -2,14 +2,24 @@ package sooper.containers;
 
 import java.util.Set;
 
+import sooper.enums.ContainerType;
 import sooper.products.IProduct;
 
 public abstract class Container implements IContainer {
 
 	protected String reference;
-	
+	protected ContainerType type;
+
+	protected int endurance;
 	protected int height;
-	
+
+	protected Set<IProduct> products;
+
+	public Container(String reference, int height) {
+		this.reference = reference;
+		this.height = height;
+	}
+
 	@Override
 	public String getReference() {
 		return this.reference;
@@ -27,9 +37,8 @@ public abstract class Container implements IContainer {
 	}
 
 	@Override
-	public int getResistance() {
-		// TODO Auto-generated method stub
-		return 0;
+	public int getEndurance() {
+		return this.endurance;
 	}
 
 	@Override
@@ -40,14 +49,12 @@ public abstract class Container implements IContainer {
 
 	@Override
 	public Set<IProduct> getProducts() {
-		// TODO Auto-generated method stub
-		return null;
+		return this.products;
 	}
 
 	@Override
-	public String getType() {
-		// TODO Auto-generated method stub
-		return null;
+	public ContainerType getType() {
+		return this.type;
 	}
 
 	@Override
