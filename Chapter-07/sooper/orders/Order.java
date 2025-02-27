@@ -1,13 +1,21 @@
 package sooper.orders;
 
+import java.util.HashSet;
 import java.util.Set;
 
 import sooper.containers.IContainer;
 import sooper.products.IProduct;
 
-public abstract class Order implements IOrder {
+public class Order implements IOrder {
 
 	protected String reference;
+	protected Set<IContainer> containers;
+
+	
+	public Order(String reference) {
+		this.reference = reference;
+		this.containers = new HashSet<>();
+	}
 
 	@Override
 	public String getReference() {
@@ -22,14 +30,12 @@ public abstract class Order implements IOrder {
 
 	@Override
 	public Set<IContainer> getContainers() {
-		// TODO Auto-generated method stub
-		return null;
+		return this.containers;
 	}
 
 	@Override
 	public void addContainer(IContainer container) {
-		// TODO Auto-generated method stub
-
+		this.containers.add(container);
 	}
 
 	@Override
@@ -37,5 +43,12 @@ public abstract class Order implements IOrder {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public String toString() {
+		return "Order [reference=" + reference + ", containers=" + containers + "]";
+	}
+	
+	
 
 }

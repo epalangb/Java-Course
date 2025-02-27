@@ -42,10 +42,7 @@ public abstract class Container implements IContainer {
 	}
 
 	@Override
-	public int getSurface() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	public abstract int getSurface();
 
 	@Override
 	public Set<IProduct> getProducts() {
